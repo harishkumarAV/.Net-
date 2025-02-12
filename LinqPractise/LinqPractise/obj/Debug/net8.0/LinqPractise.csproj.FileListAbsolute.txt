@@ -1,0 +1,14 @@
+C:\Users\C22381E\source\repos\LinqPractise\LinqPractise\bin\Debug\net8.0\LinqPractise.exe
+C:\Users\C22381E\source\repos\LinqPractise\LinqPractise\bin\Debug\net8.0\LinqPractise.deps.json
+C:\Users\C22381E\source\repos\LinqPractise\LinqPractise\bin\Debug\net8.0\LinqPractise.runtimeconfig.json
+C:\Users\C22381E\source\repos\LinqPractise\LinqPractise\bin\Debug\net8.0\LinqPractise.dll
+C:\Users\C22381E\source\repos\LinqPractise\LinqPractise\bin\Debug\net8.0\LinqPractise.pdb
+C:\Users\C22381E\source\repos\LinqPractise\LinqPractise\obj\Debug\net8.0\LinqPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C22381E\source\repos\LinqPractise\LinqPractise\obj\Debug\net8.0\LinqPractise.AssemblyInfoInputs.cache
+C:\Users\C22381E\source\repos\LinqPractise\LinqPractise\obj\Debug\net8.0\LinqPractise.AssemblyInfo.cs
+C:\Users\C22381E\source\repos\LinqPractise\LinqPractise\obj\Debug\net8.0\LinqPractise.csproj.CoreCompileInputs.cache
+C:\Users\C22381E\source\repos\LinqPractise\LinqPractise\obj\Debug\net8.0\LinqPractise.dll
+C:\Users\C22381E\source\repos\LinqPractise\LinqPractise\obj\Debug\net8.0\refint\LinqPractise.dll
+C:\Users\C22381E\source\repos\LinqPractise\LinqPractise\obj\Debug\net8.0\LinqPractise.pdb
+C:\Users\C22381E\source\repos\LinqPractise\LinqPractise\obj\Debug\net8.0\LinqPractise.genruntimeconfig.cache
+C:\Users\C22381E\source\repos\LinqPractise\LinqPractise\obj\Debug\net8.0\ref\LinqPractise.dll
