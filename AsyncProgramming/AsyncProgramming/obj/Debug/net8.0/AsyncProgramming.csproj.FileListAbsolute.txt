@@ -1,0 +1,14 @@
+C:\Users\C22381E\source\repos\AsyncProgramming\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.exe
+C:\Users\C22381E\source\repos\AsyncProgramming\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.deps.json
+C:\Users\C22381E\source\repos\AsyncProgramming\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.runtimeconfig.json
+C:\Users\C22381E\source\repos\AsyncProgramming\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.dll
+C:\Users\C22381E\source\repos\AsyncProgramming\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.pdb
+C:\Users\C22381E\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C22381E\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.AssemblyInfoInputs.cache
+C:\Users\C22381E\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.AssemblyInfo.cs
+C:\Users\C22381E\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.csproj.CoreCompileInputs.cache
+C:\Users\C22381E\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.dll
+C:\Users\C22381E\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\refint\AsyncProgramming.dll
+C:\Users\C22381E\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.pdb
+C:\Users\C22381E\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.genruntimeconfig.cache
+C:\Users\C22381E\source\repos\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\ref\AsyncProgramming.dll
